@@ -11,6 +11,7 @@
 	<groupId>com.shashirajraja</groupId>
 	<artifactId>online-book-store</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
 	<name>online-book-store</name>
 	<description>Project for Online Book Store using Spring Boot</description>
 
