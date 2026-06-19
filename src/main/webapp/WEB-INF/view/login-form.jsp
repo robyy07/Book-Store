@@ -51,7 +51,7 @@
 						<h6 class="h4 text-green-900 mb-4" style="color:green;">${message}</h6>
 					</c:when>
 					<c:otherwise>
-                    	<h3 class="h4 text-grey-900 mb-4">Hey Welcome!</h3>
+                    	<h3 class="h4 text-grey-900 mb-4">Welcome Back!</h3>
                   	</c:otherwise>
                   	</c:choose>
                   </div>
